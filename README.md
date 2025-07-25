@@ -22,8 +22,10 @@ An interactive table editor built with **Vite** and **React**, allowing users to
    git clone https://github.com/your-username/table-editor.git
 
 2. **Install dependencies**
+   ```bash
    npm i
 
 
-3. **Run the development server**
+4. **Run the development server**
+   ```bash
    npm run dev
